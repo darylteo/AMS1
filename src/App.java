@@ -18,7 +18,7 @@ public class App {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello This is Dog!");
+		System.out.println("Hello This is Dog!!!!");
 		
 		App a = new App();
 		String options[] = { "Add Offering", "Add Lecture", "Add Lecturer",
